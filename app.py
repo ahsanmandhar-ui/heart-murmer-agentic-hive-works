@@ -131,9 +131,9 @@ if uploaded is not None:
             for e in state.events:
                 st.write("-", e)
 
-        st.session_state["last_embedding"] = out.embedding.tolist()
-        st.session_state["last_pred"] = out.label
-        st.session_state["last_p"] = out.p
+        st.session_state["last_embedding"] = state.embedding.tolist() if hasattr(state.embedding, "tolist") else state.embedding
+        st.session_state["last_pred"] = res.get("label", "unknown")
+        st.session_state["last_p"] = res.get("p", 0.0)
 
         with st.expander("Report correction (human-in-the-loop)"):
             corrected = st.selectbox("Correct label", ["Absent", "Present", "Unknown"], key="corrected_label")
