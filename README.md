@@ -44,6 +44,8 @@ If you use this work in research or presentation, please credit: Ahsan Mandhar.
 ### Python (one-click installer — recommended for lay users)
 [![Download Python Installer](https://img.shields.io/badge/Download-Python%20Installer-green?style=for-the-badge)](https://huggingface.co/Ahsanmandhar/heart-murmer-agentic-hive-works/resolve/main/heart-murmer-agentic-hive-python-setup.exe)
 
+**Direct link:** https://huggingface.co/Ahsanmandhar/heart-murmer-agentic-hive-works/resolve/main/heart-murmer-agentic-hive-python-setup.exe
+
 ### Rust (one-click installer — CLI)
 [![Download Rust Installer](https://img.shields.io/badge/Download-Rust%20Installer-blue?style=for-the-badge)](https://huggingface.co/Ahsanmandhar/heart-murmer-agentic-hive-works/resolve/main/heart-murmer-agentic-hive-setup.exe)
 
