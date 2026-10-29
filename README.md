@@ -39,3 +39,4 @@ Dual license: MIT for base components; copyright © 2026 Ahsan Mandhar for appli
 
 ## Citation
 If you use this work in research or presentation, please credit: Ahsan Mandhar.
+See [ARCHITECTURE.md](ARCHITECTURE.md) for detailed diagrams of the hive protocol.
