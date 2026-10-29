@@ -41,11 +41,14 @@ Dual license: MIT for base components; copyright © 2026 Ahsan Mandhar for appli
 If you use this work in research or presentation, please credit: Ahsan Mandhar.
 ## Download
 
-### Rust (one-click installer)
+### Python (one-click installer — recommended for lay users)
+[![Download Python Installer](https://img.shields.io/badge/Download-Python%20Installer-green?style=for-the-badge)](https://huggingface.co/Ahsanmandhar/heart-murmer-agentic-hive-works/resolve/main/heart-murmer-agentic-hive-python-setup.exe)
+
+### Rust (one-click installer — CLI)
 [![Download Rust Installer](https://img.shields.io/badge/Download-Rust%20Installer-blue?style=for-the-badge)](https://huggingface.co/Ahsanmandhar/heart-murmer-agentic-hive-works/resolve/main/heart-murmer-agentic-hive-setup.exe)
 
 ### Python (source)
-[![Download Python ZIP](https://img.shields.io/badge/Download-Python%20Source-green?style=for-the-badge)](https://github.com/ahsanmandhar-ui/heart-murmer-agentic-hive-works/archive/refs/heads/main.zip)
+[![Download Python ZIP](https://img.shields.io/badge/Download-Python%20Source-gray?style=for-the-badge)](https://github.com/ahsanmandhar-ui/heart-murmer-agentic-hive-works/archive/refs/heads/main.zip)
 
 ### Network Topology
 ```mermaid
