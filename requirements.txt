@@ -1,0 +1,7 @@
+streamlit
+librosa
+onnxruntime
+numpy
+cryptography
+psutil
+zeroconf
