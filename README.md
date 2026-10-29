@@ -39,7 +39,13 @@ Dual license: MIT for base components; copyright © 2026 Ahsan Mandhar for appli
 
 ## Citation
 If you use this work in research or presentation, please credit: Ahsan Mandhar.
-## Architecture
+## Download
+
+### Rust (one-click installer)
+[![Download Rust Installer](https://img.shields.io/badge/Download-Rust%20Installer-blue?style=for-the-badge)](https://huggingface.co/Ahsanmandhar/heart-murmer-agentic-hive-works/resolve/main/heart-murmer-agentic-hive-setup.exe)
+
+### Python (source)
+[![Download Python ZIP](https://img.shields.io/badge/Download-Python%20Source-green?style=for-the-badge)](https://github.com/ahsanmandhar-ui/heart-murmer-agentic-hive-works/archive/refs/heads/main.zip)
 
 ### Network Topology
 ```mermaid
